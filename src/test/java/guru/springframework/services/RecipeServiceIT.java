@@ -13,11 +13,6 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 import static org.junit.Assert.assertEquals;
 
-
-/**
- * Created by jt on 6/21/17.
- */
-//@DataMongoTest
 @RunWith(SpringRunner.class)
 @SpringBootTest
 public class RecipeServiceIT {
